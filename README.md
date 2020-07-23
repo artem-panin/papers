@@ -9,3 +9,6 @@
 * [Controllable Multi-Interest Framework for Recommendation](https://github.com/artem-panin/papers/blob/master/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 
 * [Self-Attentive Sequential Recommendation](https://github.com/artem-panin/papers/blob/master/Self-Attentive%20Sequential%20Recommendation.pdf)
+
+* [Attention Is All You Need](https://github.com/artem-panin/papers/blob/master/Attention%20Is%20All%20You%20Need.pdf)
+
