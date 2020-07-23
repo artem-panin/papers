@@ -8,3 +8,4 @@
 
 * [Controllable Multi-Interest Framework for Recommendation](https://github.com/artem-panin/papers/blob/master/Controllable%20Multi-Interest%20Framework%20for%20Recommendation.pdf)
 
+* [Self-Attentive Sequential Recommendation](https://github.com/artem-panin/papers/blob/master/Self-Attentive%20Sequential%20Recommendation.pdf)
