@@ -13,3 +13,5 @@
 * [Attention Is All You Need](https://github.com/artem-panin/papers/blob/master/Attention%20Is%20All%20You%20Need.pdf)
 
 * [Deep Retrieval- An End-to-End Learnable Structure Model for Large-Scale Recommendations](https://github.com/artem-panin/papers/blob/master/Deep%20Retrieval-%20An%20End-to-End%20Learnable%20Structure%20Model%20for%20Large-Scale%20Recommendations.pdf)
+
+* [BERT4Rec- Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://github.com/artem-panin/papers/blob/master/BERT4Rec-%20Sequential%20Recommendation%20with%20Bidirectional%20Encoder%20Representations%20from%20Transformer.pdf)
